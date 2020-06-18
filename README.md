@@ -26,21 +26,21 @@ python Test_LPD_Net.py --cs_ratio=20
 
 **After running the above command, you will see the following print message on the screen.**
 
-> CS reconstruction for Set11.
->
-> \[01/11]: barbara.tif, PSNR/SSIM:  27.88/0.8764
-> \[02/11]: boats.tif, PSNR/SSIM:  32.01/0.9129
-> \[03/11]: cameraman.tif, PSNR/SSIM:  27.89/0.8653
-> \[04/11]: fingerprint.tif, PSNR/SSIM:  26.79/0.9148
-> \[05/11]: flinstones.tif, PSNR/SSIM:  28.87/0.8682
-> \[06/11]: foreman.tif, PSNR/SSIM:  38.15/0.9498
-> \[07/11]: house.tif, PSNR/SSIM:  35.30/0.8953
-> \[08/11]: lena256.tif, PSNR/SSIM:  31.35/0.9159
-> \[09/11]: Monarch.tif, PSNR/SSIM:  31.58/0.9406
-> \[10/11]: Parrots.tif, PSNR/SSIM:  30.63/0.9225
-> \[11/11\]: peppers256.tif, PSNR/SSIM:  33.06/0.9181
->
-> Avg PSNR/SSIM is 31.23/0.9073 for Set11 when CS ratio is 20%.
+CS reconstruction for Set11.
+
+\[01/11]: barbara.tif, PSNR/SSIM:  27.88/0.8764
+\[02/11]: boats.tif, PSNR/SSIM:  32.01/0.9129
+\[03/11]: cameraman.tif, PSNR/SSIM:  27.89/0.8653
+\[04/11]: fingerprint.tif, PSNR/SSIM:  26.79/0.9148
+\[05/11]: flinstones.tif, PSNR/SSIM:  28.87/0.8682
+\[06/11]: foreman.tif, PSNR/SSIM:  38.15/0.9498
+\[07/11]: house.tif, PSNR/SSIM:  35.30/0.8953
+\[08/11]: lena256.tif, PSNR/SSIM:  31.35/0.9159
+\[09/11]: Monarch.tif, PSNR/SSIM:  31.58/0.9406
+\[10/11]: Parrots.tif, PSNR/SSIM:  30.63/0.9225
+\[11/11]: peppers256.tif, PSNR/SSIM:  33.06/0.9181
+
+Avg PSNR/SSIM is 31.23/0.9073 for Set11 when CS ratio is 20%.
 
 **And the reconstruction images are saved in "./Image_reconstruction_result"**
 
