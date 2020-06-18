@@ -2,7 +2,7 @@ Code Link: https://github.com/clzhang97/LPD-Net_pytorch
 
 The code is tested in Linux and Windows environments (Python: 3.6.0, pytorch: 1.2.0, CUDA10.0) with Nvidia GTX 2080Ti GPU. 
 
-We use the same training data "Training_Data_Img91.mat" as ISTA-Net. Please download it and put it in the folder "Training_data" first (https://github.com/jianzhangcs/ISTA-Net-PyTorch).
+We use the same training data "Training_Data_Img91.mat" as ISTA-Net. Please download it and put it in the folder "./Training_data" first (https://github.com/jianzhangcs/ISTA-Net-PyTorch).
 
 ### Training LPD-Net 
 
